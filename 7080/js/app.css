@@ -221,8 +221,8 @@ body {
 .player-box {
     height: 600px;
     padding: 0;
-    //background: #000 url(../i/loading.gif) no-repeat center;
-	background-image:url(../i/loading.gif);
+    //background: #000 url(https://i0.wp.com/txc.gtimg.com/data/435075/2022/1024/6e5536542c768ad3c4b59e14f0cc363f.gif) no-repeat center;
+	background-image:url(https://i0.wp.com/txc.gtimg.com/data/435075/2022/1024/6e5536542c768ad3c4b59e14f0cc363f.gif);
 	background-repeat:no-repeat;
 	background-position:center;
 }
