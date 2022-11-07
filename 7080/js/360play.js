@@ -1,6 +1,6 @@
 
 //内容开始
-var jx="./jx/index.html?url=";
+var jx="https://120241400.com/7080/jx/index.html?url=";
 var url1="https://api.web.360kan.com/v1/detail?cat="+id;
 $(function(){
 $.ajax({
