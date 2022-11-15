@@ -4,8 +4,8 @@ var appzy = {
         "url": "https://www.genmov.com/mogai_api.php/v1.vod"
     },
     "1": {
-        "name": "夕阳影视",
-        "url": "https://bird.ioliu.cn/v1?url=http://cms.seo-tv.work/mogai_api.php/v1.vod"
+        "name": "琵琶影视",
+        "url": "https://www.pipamovie.com/api.php/v1.vod"
     },
     "2": {
         "name": "看剧吧",
@@ -21,7 +21,7 @@ var appzy = {
     },
     "5": {
         "name": "兔子窝",
-        "url": "https://bird.ioliu.cn/v1?url=http://app.qianju.cc/api.php/v1.vod"
+        "url": "https://app.qianju.cc/api.php/v1.vod"
     },
     "6": {
         "name": "佳佳影视",
