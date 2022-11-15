@@ -12,8 +12,8 @@ var appzy = {
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "3": {
-        "name": "小鸟影视",
-        "url": "https://bird.ioliu.cn/v1?url=http://xydm.baicai.buzz/mogai_api.php/v1.vod"
+        "name": "一站影视",
+        "url": "https://www.dpp8.xyz/api.php/v1.vod"
     },
     "4": {
         "name": "淘剧社",
