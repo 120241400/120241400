@@ -12,8 +12,8 @@ var appzy = {
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "3": {
-        "name": "小七影视",
-        "url": "https://www.xiaoqi0.cn/cuican_api.php/v1.vod"
+        "name": "鑫总影视",
+        "url": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
     },
     "4": {
         "name": "淘剧社",
