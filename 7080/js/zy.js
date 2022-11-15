@@ -5,7 +5,7 @@ var appzy = {
     },
     "1": {
         "name": "夕阳影视",
-        "url": "http://cms.seo-tv.work/mogai_api.php/v1.vod"
+        "url": "https://bird.ioliu.cn/v1?url=http://cms.seo-tv.work/mogai_api.php/v1.vod"
     },
     "2": {
         "name": "看剧吧",
@@ -13,7 +13,7 @@ var appzy = {
     },
     "3": {
         "name": "小鸟影视",
-        "url": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
+        "url": "https://bird.ioliu.cn/v1?url=http://xydm.baicai.buzz/mogai_api.php/v1.vod"
     },
     "4": {
         "name": "淘剧社",
@@ -21,7 +21,7 @@ var appzy = {
     },
     "5": {
         "name": "兔子窝",
-        "url": "http://app.qianju.cc/api.php/v1.vod"
+        "url": "https://bird.ioliu.cn/v1?url=http://app.qianju.cc/api.php/v1.vod"
     },
     "6": {
         "name": "佳佳影视",
