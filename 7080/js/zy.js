@@ -4,8 +4,8 @@ var appzy = {
         "url": "https://www.genmov.com/mogai_api.php/v1.vod"
     },
     "1": {
-        "name": "QC影视",
-        "url": "https://www.qcsvip.com/mogai_api.php/v1.vod"
+        "name": "夕阳影视",
+        "url": "http://cms.seo-tv.work/mogai_api.php/v1.vod"
     },
     "2": {
         "name": "看剧吧",
