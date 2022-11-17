@@ -12,8 +12,8 @@ var appzy = {
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "3": {
-        "name": "一站影视",
-        "url": "https://www.dpp8.xyz/api.php/v1.vod"
+        "name": "筑梦影视",
+        "url": "https://www.5020.work/json/?url=http://wzys.scp00.cn/api.php/v1.vod"
     },
     "4": {
         "name": "淘剧社",
