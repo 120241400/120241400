@@ -37,7 +37,7 @@ var appzy = {
     },
     "9": {
         "name": "乐活视频",
-        "url": "https://www.5020.work/json/?url=https://lehootv.com/api.php/provide/vod/"
+        "url": "https://lehootv.com/api.php/provide/vod"
     },
     "10": {
         "name": "寒枫影视",
