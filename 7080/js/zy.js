@@ -37,7 +37,7 @@ var appzy = {
     },
     "9": {
         "name": "小小视频",
-        "url": "http://zy.xiaomaomi.cc/api.php/provide/vod"
+        "url": "https://zy.xiaomaomi.cc/api.php/provide/vod"
     },
     "10": {
         "name": "寒枫影视",
