@@ -36,8 +36,8 @@ var appzy = {
         "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     "9": {
-        "name": "暖光视频",
-        "url": "https://app.bl210.com/api.php/v1.vod"
+        "name": "影图视频",
+        "url": "https://cj.vodimg.top/api.php/provide/vod"
     },
     "10": {
         "name": "寒枫影视",
