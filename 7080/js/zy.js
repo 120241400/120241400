@@ -36,8 +36,8 @@ var appzy = {
         "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     "9": {
-        "name": "忆梦视频",
-        "url": "http://anltv.cn/api.php/provide/vod/"
+        "name": "30视频",
+        "url": "https://www.30dian.cn/api.php/v1.vod"
     },
     "10": {
         "name": "寒枫影视",
