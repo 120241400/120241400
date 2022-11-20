@@ -37,7 +37,7 @@ var appzy = {
     },
     "9": {
         "name": "爱看视频",
-        "url": "https://zy.hikan.xyz/api.php/provide/vod"
+        "url": "https://taopianapi.com/home/cjapi/as/mc10/vod/json"
     },
     "10": {
         "name": "寒枫影视",
