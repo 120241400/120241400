@@ -1,7 +1,7 @@
 var appzy = {
     "0": {
-        "name": "我爱跟剧",
-        "url": "https://www.genmov.com/mogai_api.php/v1.vod"
+        "name": "30视频",
+        "url": "https://www.30dian.cn/api.php/v1.vod"
     },
     "1": {
         "name": "琵琶影视",
@@ -36,8 +36,8 @@ var appzy = {
         "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     "9": {
-        "name": "30视频",
-        "url": "https://www.30dian.cn/api.php/v1.vod"
+        "name": "我爱跟剧",
+        "url": "https://www.genmov.com/mogai_api.php/v1.vod"
     },
     "10": {
         "name": "寒枫影视",
