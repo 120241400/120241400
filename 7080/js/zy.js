@@ -4,8 +4,8 @@ var appzy = {
         "url": "https://www.30dian.cn/api.php/v1.vod"
     },
     "1": {
-        "name": "琵琶影视",
-        "url": "https://www.pipamovie.com/api.php/v1.vod"
+        "name": "零刻影视",
+        "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     "2": {
         "name": "看剧吧",
