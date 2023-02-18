@@ -8,8 +8,8 @@ var appzy = {
         "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     "2": {
-        "name": "佳佳影视",
-        "url": "https://www.jiajia.pub/api.php/v1.vod"
+        "name": "海玉影视",
+        "url": "https://tv2.hykjtv.cn/api.php/v1.vod"
     },
     "3": {
         "name": "筑梦影视",
