@@ -4,12 +4,12 @@ var appzy = {
         "url": "https://www.30dian.cn/api.php/v1.vod"
     },
     "1": {
-        "name": "零刻影视",
-        "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+        "name": "玖影视",
+        "url": "https://vod.nqcode.cn/api.php/v1.vod"
     },
     "2": {
-        "name": "520影视",
-        "url": "http://520dml.xyz/api.php/v1.vod"
+        "name": "天天影视",
+        "url": "http://app.qianju.cc/api.php/v1.vod"
     },
     "3": {
         "name": "筑梦影视",
