@@ -4,8 +4,8 @@ var appzy = {
         "url": "https://www.30dian.cn/api.php/v1.vod"
     },
     "1": {
-        "name": "玖影视",
-        "url": "https://vod.nqcode.cn/api.php/v1.vod"
+        "name": "图影影视",
+        "url": "https://cj.vodimg.top/api.php/provide/vod"
     },
     "2": {
         "name": "天天影视",
