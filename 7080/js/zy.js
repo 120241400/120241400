@@ -1,7 +1,7 @@
 var appzy = {
     "0": {
-        "name": "影库视频",
-        "url": "https://yingkudy.com/lvdou_api.php/v1.vod"
+        "name": "千剧视频",
+        "url": "http://app.qianju.cc/api.php/v1.vod"
     },
     "1": {
         "name": "188影视",
