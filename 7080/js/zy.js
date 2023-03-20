@@ -1,7 +1,7 @@
 var appzy = {
     "0": {
-        "name": "千剧视频",
-        "url": "https://app.ishen520.com/api.php/v1.vod?http://http://app.qianju.cc/api.php/v1.vod"
+        "name": "看剧视频",
+        "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "1": {
         "name": "聚合影视",
@@ -12,8 +12,8 @@ var appzy = {
         "url": "https://188kan.com/api.php/v1.vod"
     },
     "3": {
-        "name": "筑梦影视",
-        "url": "https://www.5020.work/json/?url=http://wzys.scp00.cn/api.php/v1.vod"
+        "name": "千剧影视",
+        "url": "http://http://app.qianju.cc/api.php/v1.vod"
     },
     "4": {
         "name": "淘剧社",
