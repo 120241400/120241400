@@ -8,8 +8,8 @@ var appzy = {
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "2": {
-        "name": "188影视",
-        "url": "https://188kan.com/api.php/v1.vod"
+        "name": "暖光影视",
+        "url": "https://app.bl210.com/api.php/v1.vod"
     },
     "3": {
         "name": "千剧影视",
