@@ -1,7 +1,7 @@
 var appzy = {
     "0": {
         "name": "千剧视频",
-        "url": "http://app.qianju.cc/api.php/v1.vod"
+        "url": "https://app.ishen520.com/api.php/v1.vod?http://http://app.qianju.cc/api.php/v1.vod"
     },
     "1": {
         "name": "聚合影视",
