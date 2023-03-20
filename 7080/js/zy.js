@@ -8,8 +8,8 @@ var appzy = {
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "2": {
-        "name": "九一影视",
-        "url": "https://tv.91ymz.cn/mogai_api.php/v1.vod"
+        "name": "兔子影视",
+        "url": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"
     },
     "3": {
         "name": "海域影视",
