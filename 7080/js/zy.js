@@ -12,8 +12,8 @@ var appzy = {
         "url": "https://app.bl210.com/api.php/v1.vod"
     },
     "3": {
-        "name": "千剧影视",
-        "url": "http://http://app.qianju.cc/api.php/v1.vod"
+        "name": "海域影视",
+        "url": "https://tv2.hykjtv.cn/api.php/v1.vod"
     },
     "4": {
         "name": "淘剧社",
