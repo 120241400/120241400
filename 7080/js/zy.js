@@ -1,15 +1,15 @@
 var appzy = {
     "0": {
         "name": "千剧视频",
-        "url": "http://app.qianju.cc/api.php/v1.vod"
+        "url": "https://www.5020.work/json/?url=http://app.qianju.cc/api.php/v1.vod"
     },
     "1": {
         "name": "聚合影视",
-        "url": "http://47.113.126.237:1234/api.php/provide/vod"
+        "url": "https://www.5020.work/json/?url=http://47.113.126.237:1234/api.php/provide/vod"
     },
     "2": {
         "name": "188影视",
-        "url": "https://188kan.com/api.php/v1.vod"
+        "url": "https://www.5020.work/json/?url=https://188kan.com/api.php/v1.vod"
     },
     "3": {
         "name": "筑梦影视",
