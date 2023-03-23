@@ -1,7 +1,7 @@
 var appzy = {
     "0": {
-        "name": "看剧视频",
-        "url": "https://app.ishen520.com/api.php/v1.vod"
+        "name": "HG视频",
+        "url": "http://bbq.1006.tk/api.php/v1.vod"
     },
     "1": {
         "name": "大猫影视",
@@ -21,7 +21,7 @@ var appzy = {
     },
     "5": {
         "name": "兔子窝",
-        "url": "https://app.qianju.cc/api.php/v1.vod"
+        "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "6": {
         "name": "佳佳影视",
