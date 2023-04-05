@@ -1,7 +1,7 @@
 var appzy = {
     "0": {
-        "name": "HG视频",
-        "url": "http://bbq.1006.tk/api.php/v1.vod"
+        "name": "MQ视频",
+        "url": "https://vod.nqcode.cn/api.php/v1.vod"
     },
     "1": {
         "name": "大猫影视",
