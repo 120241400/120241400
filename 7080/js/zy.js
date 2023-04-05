@@ -1,10 +1,10 @@
 var appzy = {
     "0": {
-        "name": "MQ视频",
-        "url": "https://vod.nqcode.cn/api.php/v1.vod"
+        "name": "大猫视频",
+        "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "1": {
-        "name": "大猫影视",
+        "name": "大猫1影视",
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "2": {
