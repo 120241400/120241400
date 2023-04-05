@@ -50,8 +50,8 @@ var pingguozy = {
         "url": "https://www.39kan.com/api.php/provide/vod/"
     },
     "1": {
-        "name": "新浪",
-        "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+        "name": "非凡",
+        "url": "http://ffzy5.tv/api.php/provide/vod/"
     },
     "2": {
         "name": "鱼乐",
