@@ -4,8 +4,8 @@ var appzy = {
         "url": "https://app.ishen520.com/api.php/v1.vod"
     },
     "1": {
-        "name": "大猫1影视",
-        "url": "https://app.ishen520.com/api.php/v1.vod"
+        "name": "三点影视",
+        "url": "https://www.30dian.cn/api.php/provide/vod"
     },
     "2": {
         "name": "阿里影视",
