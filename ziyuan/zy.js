@@ -4,7 +4,7 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/", "play":"./jx/index.html?url="
+        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
     }
     ,
     "2": {
@@ -24,7 +24,7 @@ var pingguozy= {
     }
     ,
     "6": {
-        "name": "酷点", "url":"https://api.kuapi.cc/api.php/provide/vod/at/json/", "play":"./jx/index.html?url="
+        "name": "酷点", "url":"https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8", "play":"./jx/index.html?url="
     }
     ,
     "7": {
