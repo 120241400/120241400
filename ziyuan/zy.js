@@ -16,11 +16,11 @@ var pingguozy= {
     }
     ,
     "4": {
-        "name": "卧龙", "url":"https://collect.wolongzyw.com/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
+        "name": "卧龙", "url":"https://collect.wolongzyw.com/api.php/provide/vod/", "play":"./jx/index.html?url="
     }
     ,
     "5": {
-        "name": "快车", "url":"https://caiji.kczyapi.com/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
+        "name": "快车", "url":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8", "play":"./jx/index.html?url="
     }
     ,
     "6": {
@@ -28,7 +28,7 @@ var pingguozy= {
     }
     ,
     "7": {
-        "name": "光速", "url":"https://api.guangsuapi.com/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
+        "name": "光速", "url":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8", "play":"./jx/index.html?url="
     }
 }
 ;
