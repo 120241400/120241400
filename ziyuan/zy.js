@@ -24,7 +24,7 @@ var pingguozy= {
     }
     ,
     "6": {
-        "name": "量子", "url":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8", "play":"./jx/index.html?url="
+        "name": "量子", "url":"https://cj.lziapi.com/api.php/provide/vod", "play":"./jx/index.html?url="
     }
     ,
     "7": {
