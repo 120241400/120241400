@@ -24,7 +24,7 @@ var pingguozy= {
     }
     ,
     "6": {
-        "name": "酷点", "url":"https://api.kuapi.cc/api.php/provide/vod/from/kdm3u8", "play":"./jx/index.html?url="
+        "name": "量子", "url":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8", "play":"./jx/index.html?url="
     }
     ,
     "7": {
