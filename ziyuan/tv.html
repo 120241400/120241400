@@ -56,16 +56,16 @@
 <div class="am-tabs" id="tv-res-choose" data-am-tabs>
 <ul class="am-tabs-nav am-nav am-nav-tabs">
 <li class="am-active" id="tttest">
-<a href="#imgo">浙江电视</a>
+<a href="#imgo">央视频道</a>
 </li>
 <li>
-<a href="#cntv">其他直播</a>
+<a href="#cntv">卫视频道</a>
 </li>
 <li>
-<a href="#iptv">IPTV</a>
+<a href="#iptv">电影频道</a>
 </li>
 <li>
-<a href="#woiptv">学习</a>
+<a href="#woiptv">少儿频道</a>
 </li>
 </ul>
 <div class="am-tabs-bd tv-res-lists">
@@ -121,7 +121,7 @@ document.getElementById("souji").innerHTML =souji;
 
 var zjiptv1="";
 for (var key in zjiptv) 
-    { zjiptv1+='<li class="am-btn am-btn-sm btn-play-source"><a href="https://nojx.cc/m3u8/?url='+zjiptv[key]+'"  target="ajax" onclick="GetHref(this);return false;">'+key+'</a></li>';
+    { zjiptv1+='<li class="am-btn am-btn-sm btn-play-source"><a href="'+zjiptv[key]+'"  target="ajax" onclick="GetHref(this);return false;">'+key+'</a></li>';
 }
 document.getElementById("imgo").innerHTML =zjiptv1;
 
