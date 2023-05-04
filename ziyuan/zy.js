@@ -62,19 +62,19 @@ var appzy= {
 
 var tjzy= {
     "0": {
-        "name": "爱看", "url":"https://www.ikanbot.com/search?q=", "pic":"https://s1.ax1x.com/2023/05/04/p9YOe4P.jpg"
+        "name": "爱看", "url":"https://www.ikanbot.com/search?q=", "pic":"https://s1.ax1x.com/2023/05/04/p9YjJpV.md.jpg"
     }
     ,
     "1": {
-        "name": "邦宁云搜", "url":"https://video.isyour.love/Search/SearchName/", "pic":"https://s1.ax1x.com/2023/05/04/p9YOMjg.jpg"
+        "name": "邦宁云搜", "url":"https://video.isyour.love/Search/SearchName/", "pic":"https://s1.ax1x.com/2023/05/04/p9YjNXF.jpg"
     }
     ,
     "2": {
-        "name": "360影视", "url":"https://baidu.120241400.repl.co/list/search/?keyword=", "pic":"https://s1.ax1x.com/2023/05/04/p9YOGEn.md.jpg"
+        "name": "360影视", "url":"https://baidu.120241400.repl.co/list/search/?keyword=", "pic":"https://s1.ax1x.com/2023/05/04/p9YjDt1.md.jpg"
     }
     ,
     "3": {
-        "name": "M1907", "url":"https://z1.m1907.top/?jx=", "pic":"https://s1.ax1x.com/2023/05/04/p9YOU3T.jpg"
+        "name": "M1907", "url":"https://z1.m1907.top/?jx=", "pic":"https://s1.ax1x.com/2023/05/04/p9Yj61K.jpg"
     }
 }
 ;
