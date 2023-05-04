@@ -37,4 +37,64 @@ var zjiptv={
 "CCTV17":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8"};
 
 var qtiptv={
-  "CCTV1":"https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8","CCTV5":"https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv5_2/index.m3u8","CCTV13":"https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8","CCTV16":"https://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8","湖南电影台":"https://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8","倒霉熊":"https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8","反转星球":"https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8","云朵妈妈":"https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8","广东文化":"https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721","惠州新闻":"https://dslive.grtn.cn/hzzh/sd/live.m3u8","肇庆综合":"https://dslive.grtn.cn/zqzh/sd/live.m3u8","清远综合":"https://dslive.grtn.cn/qyzh/sd/live.m3u8","CNC中文":"https://source07.v.news.cn/live/CNC_CN/playlist.m3u8","NHK华语":"https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8","清华大学":"https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8","凤凰中文":"https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8","凤凰资讯":"https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8","香港旅游":"https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8","美亚时尚":"https://juyunlive.juyun.tv/live/24950198.m3u8","功夫台":"https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8","半岛电视":"https://live-hls-web-aje.getaj.net/AJE/01.m3u8","日本Shop":"https://stream3.shopch.jp/HLS/master.m3u8","TVOKISD":"https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8","原住民":"https://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8","大爱台":"https://pulltv1.wanfudaluye.com/live/tv1.m3u8","上海开看":"https://bililive.kksmg.com/hls/sdi80/playlist.m3u8","上海金山":"https://live.mudu.tv/watch/4zbn2f.m3u8","吉林乡村":"https://stream1.jlntv.cn/xcpd/sd/live.m3u8","吉林新闻":"https://stream1.jlntv.cn/ggpd/sd/live.m3u8","华语世界":"https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8","天津卫视":"https://live.ynurl.com/video/s10012-TCTV/index.m3u8"};var woiptv={"一年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8","二年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8","三年级":"http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8","四年级":"http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8","五年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8","六年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8","初一":"http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8","初二":"http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8","初三":"http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8","高一":"http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8","高二":"http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8","高三":"http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8"};
+  "北京卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
+
+"天津卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
+
+"东方卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8",
+
+"重庆卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8",
+
+"湖南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8",
+
+"浙江卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8",
+
+"江苏卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+
+"山东卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
+
+"广东卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
+
+"深圳卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+
+"安徽卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8",
+
+"四川卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8",
+
+"陕西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8",
+
+"山西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8",
+
+"湖北卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8",
+
+"河北卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8",
+
+"东南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8",
+
+"河南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8",
+
+"江西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8",
+
+"广西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8",
+
+"内蒙古卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8",
+
+"海南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8",
+
+"云南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8",
+
+"贵州卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8",
+
+"宁夏卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8",
+
+"甘肃卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8",
+
+"黑龙江卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8",
+
+"吉林卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8",
+
+"辽宁卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8",
+
+"新疆卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8"};
+
+var woiptv={"一年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8","二年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8","三年级":"http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8","四年级":"http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8","五年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8","六年级":"http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8","初一":"http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8","初二":"http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8","初三":"http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8","高一":"http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8","高二":"http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8","高三":"http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8"};
