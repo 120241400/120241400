@@ -240,7 +240,15 @@ for (var key in ipiptv)
 
 document.getElementById("iptv").innerHTML =ipiptv1;
 
+	var gtiptv1="";
 
+for (var key in gtiptv) 
+
+    { gtiptv1+='<li class="am-btn am-btn-sm btn-play-source"><a href="'+gtiptv[key]+'"  target="ajax" onclick="GetHref(this);return false;">'+key+'</a></li>';
+
+}
+
+document.getElementById("iptv").innerHTML =gtiptv1;
 
 var woiptv1="";
 
