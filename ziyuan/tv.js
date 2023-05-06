@@ -110,3 +110,31 @@ var ipiptv={
   
 "央视第一剧场":"http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8" 
 };
+
+var gtiptv={
+
+"凤凰中文":"http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1",
+
+"凤凰咨询":"http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1",
+
+"香港卫视":"http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+
+"翡翠台":"http://162.19.247.76:22222/live/tvbfc/index.m3u8",
+
+"澳亚卫视":"https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8",
+
+"凤凰中文":"http://r.jdshipin.com/cCCzW",
+
+"凤凰资讯,":"http://r.jdshipin.com/0Rp07",
+
+"翡翠台":"http://r.jdshipin.com/62WM7",
+
+"J2":"http://r.jdshipin.com/ndGgS",
+
+"无线新闻台":"http://r.jdshipin.com/CkuBd",
+
+"TVB星河":"http://r.jdshipin.com/sXuuD",
+
+"VIUTV":"http://r.jdshipin.com/vSJvl",
+
+"翡翠台.备用":"http://r.jdshipin.com/n90gt"};
