@@ -113,7 +113,7 @@ var ipiptv={
   
 "央视第一剧场":"http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8",
   
-"星级剧集台","http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136480.m3u8" 
+"星级剧集台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136480.m3u8" 
 };
 
 var gtiptv={
