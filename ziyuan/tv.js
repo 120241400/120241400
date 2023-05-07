@@ -164,7 +164,7 @@ var gtiptv={
 
 "三立新聞":"http://2023.stream-link.org/tv/1698256848",
 
-"三立新聞+http://2023.stream-link.org/tv/728100935",
+"三立新聞+":"http://2023.stream-link.org/tv/728100935",
 
 "台視新聞":"http://2023.stream-link.org/tv/723728651",
 
