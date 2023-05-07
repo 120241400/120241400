@@ -34,10 +34,13 @@ var zjiptv={
 
 "CCTV16":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
 
-"CCTV17":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8"};
+"CCTV17":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8"
+  
+"新华社新闻":"http://source07.v.news.cn/live/CNC_CN/playlist.m3u8"};
 
 var qtiptv={
-  "北京卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
+  
+"北京卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
 
 "天津卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
 
@@ -108,7 +111,9 @@ var ipiptv={
   
 "央视风云剧场":"http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012513603.m3u8",
   
-"央视第一剧场":"http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8" 
+"央视第一剧场":"http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8",
+  
+"星级剧集台","http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136480.m3u8" 
 };
 
 var gtiptv={
@@ -125,7 +130,7 @@ var gtiptv={
 
 "凤凰中文":"http://r.jdshipin.com/cCCzW",
 
-"凤凰资讯,":"http://r.jdshipin.com/0Rp07",
+"凤凰资讯":"http://r.jdshipin.com/0Rp07",
 
 "翡翠台":"http://r.jdshipin.com/62WM7",
 
