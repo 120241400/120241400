@@ -34,7 +34,7 @@ var zjiptv={
 
 "CCTV16":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8",
 
-"CCTV17":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8"
+"CCTV17":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
   
 "新华社新闻":"http://source07.v.news.cn/live/CNC_CN/playlist.m3u8"};
 
