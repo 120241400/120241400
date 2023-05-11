@@ -144,40 +144,111 @@ var gtiptv={
 
 "翡翠台3":"http://r.jdshipin.com/n90gt",
   
-"東森新聞":"http://2023.stream-link.org/tv/1919365097",
+"華麗(翡翠)台":"https://2022.stream-link.org/list.php?id=h001",
 
-"東森財經新聞":"http://2023.stream-link.org/tv/203448254",
+"翡翠台":"https://2022.stream-link.org/list.php?id=h002",
 
-"華視新聞":"http://2023.stream-link.org/tv/686953698",
+"J2":"https://2022.stream-link.org/list.php?id=h003",
 
-"中天新聞":"http://2023.stream-link.org/tv/280231259",
+"無綫新聞台":"https://2022.stream-link.org/list.php?id=h004",
 
-"中視新聞":"http://2023.stream-link.org/tv/389451789",
+"無綫財經·體育·資訊台":"https://2022.stream-link.org/list.php?id=h005",
 
-"民視新聞":"http://2023.stream-link.org/tv/727114305",
+"港台电视31":"https://2022.stream-link.org/list.php?id=h006",
 
-"寰宇國際新聞":"http://2023.stream-link.org/tv/538334982",
+"港台电视32":"https://2022.stream-link.org/list.php?id=h007",
 
-"寰宇台灣新聞":"http://2023.stream-link.org/tv/1008347635",
+"有線新聞台":"https://2022.stream-link.org/list.php?id=h008",
 
-"三立財經新聞":"http://2023.stream-link.org/tv/2011233628",
+"有線財經資訊台":"https://2022.stream-link.org/list.php?id=h009",
 
-"三立新聞":"http://2023.stream-link.org/tv/1698256848",
+"香港開電視":"https://2022.stream-link.org/list.php?id=h010",
 
-"三立新聞+":"http://2023.stream-link.org/tv/728100935",
+"香港開電視資訊台":"https://2022.stream-link.org/list.php?id=h011",
 
-"台視新聞":"http://2023.stream-link.org/tv/723728651",
+"香港國際財經台":"https://2022.stream-link.org/list.php?id=h012",
 
-"TVBS新聞":"http://2023.stream-link.org/tv/2083798658",
+"鳳凰資訊":"https://2022.stream-link.org/list.php?id=h013",
 
-"TVBS財經":"http://2023.stream-link.org/tv/342221541",
+"鳳凰中文":"https://2022.stream-link.org/list.php?id=h014",
 
-"中天綜合台":"http://2023.stream-link.org/tv/357535870",
+"ABC":"https://2022.stream-link.org/list.php?id=e001",
 
-"中天亞洲台":"http://2023.stream-link.org/tv/973103771",
+"ABC-news":"https://2022.stream-link.org/list.php?id=e002",
 
-"台視":"http://2023.stream-link.org/tv/1558743392",
+"ANN-news":"https://2022.stream-link.org/list.php?id=e003",
 
-"天才衝衝衝":"http://2023.stream-link.org/tv/1210311184",
+"Asianet-News":"https://2022.stream-link.org/list.php?id=e004",
 
-"東森yoyo":"http://2023.stream-link.org/tv/1099757482"};
+"BBC-news":"https://2022.stream-link.org/list.php?id=e005",
+
+"CNA-news":"https://2022.stream-link.org/list.php?id=e006",
+
+"CNN-Live":"https://2022.stream-link.org/list.php?id=e007",
+
+"DW-News":"https://2022.stream-link.org/list.php?id=e008",
+
+"Euro-News"："https://2022.stream-link.org/list.php?id=e009",
+
+"Fox-live":"https://2022.stream-link.org/list.php?id=e010",
+
+"france-24e":"https://2022.stream-link.org/list.php?id=e011",
+
+"gb-News":"https://2022.stream-link.org/list.php?id=e012",
+
+"haber-turk":"https://2022.stream-link.org/list.php?id=e013",
+
+"nbc-News":"https://2022.stream-link.org/list.php?id=e014",
+
+"東森新聞":"https://2022.stream-link.org/list.php?id=t001",
+
+"東森財經新聞":"https://2022.stream-link.org/list.php?id=t002",
+
+"中天新聞":"https://2022.stream-link.org/list.php?id=t003",
+
+"華視新聞":"https://2022.stream-link.org/list.php?id=t004",
+
+"中視新聞":"https://2022.stream-link.org/list.php?id=t005",
+
+"民視新聞":"https://2022.stream-link.org/list.php?id=t006",
+
+"寰宇國際新聞":"https://2022.stream-link.org/list.php?id=t007",
+
+"寰宇台灣新聞":"https://2022.stream-link.org/list.php?id=t008",
+
+"三立財經新聞":"https://2022.stream-link.org/list.php?id=t009",
+
+"三立新聞":"https://2022.stream-link.org/list.php?id=t010",
+
+"三立新聞+":"https://2022.stream-link.org/list.php?id=t011",
+
+"台視新聞":"https://2022.stream-link.org/list.php?id=t012",
+
+"TVBS新聞":"https://2022.stream-link.org/list.php?id=t013",
+
+"TVBS財經":"https://2022.stream-link.org/list.php?id=t014",
+
+"中天綜合台":"https://2022.stream-link.org/list.php?id=t015",
+
+"中天亞洲台":"https://2022.stream-link.org/list.php?id=t016",
+
+"民視HD":"https://2022.stream-link.org/list.php?id=t017",
+
+"民視第一台":"https://2022.stream-link.org/list.php?id=t018",
+
+"民視台灣台":"https://2022.stream-link.org/list.php?id=t019",
+
+"民視綜藝台":"https://2022.stream-link.org/list.php?id=t020",
+
+"民視影劇台":"https://2022.stream-link.org/list.php?id=t021",
+
+"民視旅遊台":"https://2022.stream-link.org/list.php?id=t022",
+
+"三立台灣":"https://2022.stream-link.org/list.php?id=t023",
+
+"三立都會":"https://2022.stream-link.org/list.php?id=t024",
+
+"天才衝衝衝":"https://2022.stream-link.org/list.php?id=t025",
+
+"東森yoyo":"https://2022.stream-link.org/list.php?id=t026",
+};
