@@ -250,5 +250,5 @@ var gtiptv={
 
 "天才衝衝衝":"https://2022.stream-link.org/list.php?id=t025",
 
-"東森yoyo":"https://2022.stream-link.org/list.php?id=t026",
+"東森yoyo":"https://2022.stream-link.org/list.php?id=t026"
 };
