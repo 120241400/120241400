@@ -172,34 +172,6 @@ var gtiptv={
 
 "鳳凰中文":"https://2022.stream-link.org/list.php?id=h014",
 
-"ABC":"https://2022.stream-link.org/list.php?id=e001",
-
-"ABC-news":"https://2022.stream-link.org/list.php?id=e002",
-
-"ANN-news":"https://2022.stream-link.org/list.php?id=e003",
-
-"Asianet-News":"https://2022.stream-link.org/list.php?id=e004",
-
-"BBC-news":"https://2022.stream-link.org/list.php?id=e005",
-
-"CNA-news":"https://2022.stream-link.org/list.php?id=e006",
-
-"CNN-Live":"https://2022.stream-link.org/list.php?id=e007",
-
-"DW-News":"https://2022.stream-link.org/list.php?id=e008",
-
-"Euro-News"："https://2022.stream-link.org/list.php?id=e009",
-
-"Fox-live":"https://2022.stream-link.org/list.php?id=e010",
-
-"france-24e":"https://2022.stream-link.org/list.php?id=e011",
-
-"gb-News":"https://2022.stream-link.org/list.php?id=e012",
-
-"haber-turk":"https://2022.stream-link.org/list.php?id=e013",
-
-"nbc-News":"https://2022.stream-link.org/list.php?id=e014",
-
 "東森新聞":"https://2022.stream-link.org/list.php?id=t001",
 
 "東森財經新聞":"https://2022.stream-link.org/list.php?id=t002",
