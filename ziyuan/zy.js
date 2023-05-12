@@ -39,22 +39,26 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "看剧影视", "url":"https://app.ishen520.com/api.php/v1.vod"
+        "name": "鸡婆影视", "url":"https://www.jipo.tv/api.php/provide/vod"
     }
     ,
     "2": {
-        "name": "霹雳影视", "url":"https://plyy.cc/api.php/v1.vod"
+        "name": "鸡婆影视", "url":"https://www.jipo.tv/api.php/provide/vod"
     }
     ,
     "3": {
-        "name": "188看", "url":"https://www.188kan.com/api.php/v1.vod"
+        "name": "霹雳影视", "url":"https://plyy.cc/api.php/v1.vod"
     }
     ,
     "4": {
-        "name": "影库", "url":"https://yingkudy.com/lvdou_api.php/v1.vod"
+        "name": "188看", "url":"https://www.188kan.com/api.php/v1.vod"
     }
     ,
     "5": {
+        "name": "影库", "url":"https://yingkudy.com/lvdou_api.php/v1.vod"
+    }
+    ,
+    "6": {
         "name": "免费影视", "url":"https://wlgwys.com/api.php/v1.vod"
     }
 }
