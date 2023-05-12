@@ -115,19 +115,35 @@ var ipiptv={
   
 "星级剧集台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136480.m3u8",
 
-"橙子1台":"http://pull-l3-cny.douyincdn.com/live/stream-112618jkftu28080221221240hdcztv12135837529.m3u8",
+"黑莓电影":"http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8",
 
-"橙子2台":"http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1523868316660llgu2172583690.m3u8",
+"黑马影院":"http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8",
 
-"橙子3台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240cz12135576521.m3u8",
+"潮妈辣婆":"http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8",
 
-"橙子4台":"http://pull-l3-cny.douyincdn.com/live/stream-112168tvb8080221221240llgu1213692836.m3u8",
+"家庭剧场":"http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8",
 
-"橙子5台":"http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1623668312120llgu2172165780.m3u8",
+"金牌综艺":"http://39.134.65.179/PLTV/88888888/224/3221225525/1.m3u8",
 
-"橙子6台":"http://pull-l3-cny.douyincdn.com/live/stream-113356tvb8080101313230llgu1212976930.m3u8",
+"东北热剧":"http://39.134.65.179/PLTV/88888888/224/3221225679/1.m3u8",
 
-"橙子7台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213wwmm9032156.m3u8"
+"家庭剧场":"http://39.134.65.166/PLTV/88888888/224/3221225538/1.m3u8",
+
+"超级电视剧":"http://39.134.65.173/PLTV/88888888/224/3221225637/1.m3u8",
+
+"欢乐剧场":"http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8",
+
+"精品大剧":"http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8",
+
+"爱情喜剧":"http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8",
+
+"精品纪录":"http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8",
+
+"惊悚悬疑":"http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8",
+
+"武搏世界":"http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8",
+
+"中国功夫":"http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8"
 };
 
 var gtiptv={
