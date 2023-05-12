@@ -4,30 +4,34 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
+        "name": "蜂蜜", "url":"http://6611.me/api.php/provide/vod"
     }
     ,
     "2": {
-        "name": "鱼乐", "url":"https://api.yulecj.com/api.php/provide/vod/from/lem3u8", "play":"./jx/index.html?url="
+        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
-        "name": "红牛", "url":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8", "play":"./jx/index.html?url="
+        "name": "鱼乐", "url":"https://api.yulecj.com/api.php/provide/vod/from/lem3u8", "play":"./jx/index.html?url="
     }
     ,
     "4": {
-        "name": "卧龙", "url":"https://collect.wolongzyw.com/api.php/provide/vod/", "play":"./jx/index.html?url="
+        "name": "红牛", "url":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8", "play":"./jx/index.html?url="
     }
     ,
     "5": {
-        "name": "快车", "url":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8", "play":"./jx/index.html?url="
+        "name": "卧龙", "url":"https://collect.wolongzyw.com/api.php/provide/vod/", "play":"./jx/index.html?url="
     }
     ,
     "6": {
-        "name": "无尽", "url":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8", "play":"./jx/index.html?url="
+        "name": "快车", "url":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8", "play":"./jx/index.html?url="
     }
     ,
     "7": {
+        "name": "无尽", "url":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8", "play":"./jx/index.html?url="
+    }
+    ,
+    "8": {
         "name": "光速", "url":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8", "play":"./jx/index.html?url="
     }
 }
@@ -39,26 +43,22 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "蜂蜜", "url":"http://6611.me/api.php/provide/vod"
-    }
-    ,
-    "2": {
         "name": "看剧", "url":"https://app.ishen520.com/api.php/v1.vod"
     }
     ,
-    "3": {
+    "2": {
         "name": "霹雳影视", "url":"https://plyy.cc/api.php/v1.vod"
     }
     ,
-    "4": {
+    "3": {
         "name": "188看", "url":"https://www.188kan.com/api.php/v1.vod"
     }
     ,
-    "5": {
+    "4": {
         "name": "影库", "url":"https://yingkudy.com/lvdou_api.php/v1.vod"
     }
     ,
-    "6": {
+    "5": {
         "name": "免费影视", "url":"https://wlgwys.com/api.php/v1.vod"
     }
 }
