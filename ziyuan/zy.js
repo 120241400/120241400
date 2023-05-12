@@ -43,7 +43,7 @@ var appzy= {
     }
     ,
     "2": {
-        "name": "鸡婆影视", "url":"https://www.jipo.tv/api.php/provide/vod"
+        "name": "看剧", "url":"https://app.ishen520.com/api.php/v1.vod"
     }
     ,
     "3": {
