@@ -113,7 +113,21 @@ var ipiptv={
   
 "央视第一剧场":"http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2012514403.m3u8",
   
-"星级剧集台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136480.m3u8" 
+"星级剧集台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136480.m3u8",
+
+"橙子1台":"http://pull-l3-cny.douyincdn.com/live/stream-112618jkftu28080221221240hdcztv12135837529.m3u8,
+
+"橙子2台":"http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1523868316660llgu2172583690.m3u8,
+
+"橙子3台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240cz12135576521.m3u8,
+
+"橙子4台":"http://pull-l3-cny.douyincdn.com/live/stream-112168tvb8080221221240llgu1213692836.m3u8,
+
+"橙子5台":"http://pull-l3-cny.douyincdn.com/live/stream-113356tvb1623668312120llgu2172165780.m3u8,
+
+"橙子6台":"http://pull-l3-cny.douyincdn.com/live/stream-113356tvb8080101313230llgu1212976930.m3u8,
+
+"橙子7台":"http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213wwmm9032156.m3u8
 };
 
 var gtiptv={
