@@ -39,7 +39,7 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "鸡婆影视", "url":"https://www.jipo.tv/api.php/provide/vod"
+        "name": "蜂蜜", "url":"http://6611.me/api.php/provide/vod"
     }
     ,
     "2": {
