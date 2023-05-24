@@ -59,6 +59,10 @@ var appzy= {
     }
     ,
     "5": {
+        "name": "未知", "url":"http://211.101.237.236:88/api.php/provide/vod"
+    }
+    ,
+    "6": {
         "name": "免费影视", "url":"https://wlgwys.com/api.php/v1.vod"
     }
 }
