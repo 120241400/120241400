@@ -4,7 +4,7 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "蜂蜜", "url":"https://damozy.com/api.php/provide/vod/?ac=detail"
+        "name": "大漠", "url":"https://damozy.com/api.php/provide/vod/?ac=detail"
     }
     ,
     "2": {
