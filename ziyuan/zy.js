@@ -4,7 +4,7 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "大漠", "url":"https://damozy.com/api.php/provide/vod/from/M3U8"
+        "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/"
     }
     ,
     "2": {
