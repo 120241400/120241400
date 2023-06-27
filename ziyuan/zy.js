@@ -39,7 +39,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "123看", "url":"https://123aktv.com/api.php/v1.vod"
+        "name": "龙门", "url":"https://movie.iqinu.com/api.php/v1.vod"
     }
     ,
     "1": {
