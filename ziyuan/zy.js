@@ -78,7 +78,7 @@ var tjzy= {
     }
     ,
     "2": {
-        "name": "360影视", "url":"https://baidu.120241400.repl.co/list/search/?keyword=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9YjDt1.md.jpg"
+        "name": "360影视", "url":"http://wangqing361.phpnet.us/1/list/search/?keyword=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9YjDt1.md.jpg"
     }
     ,
     "3": {
