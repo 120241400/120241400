@@ -39,7 +39,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "龙门", "url":"https://movie.iqinu.com/api.php/v1.vod"
+        "name": "创意", "url":"https://www.30dian.cn/api.php/v1.vod"
     }
     ,
     "1": {
@@ -47,23 +47,23 @@ var appzy= {
     }
     ,
     "2": {
-        "name": "霹雳影视", "url":"https://plyy.cc/api.php/v1.vod"
+        "name": "霹雳", "url":"https://plyy.cc/api.php/v1.vod"
     }
     ,
     "3": {
-        "name": "188看", "url":"https://www.188kan.com/api.php/v1.vod"
+        "name": "何以", "url":"https://www.heyik.cn/api.php/v1.vod"
     }
     ,
     "4": {
-        "name": "影库", "url":"https://yingkudy.com/lvdou_api.php/v1.vod"
+        "name": "真爱", "url":"https://www.chiguafilm.com/api.php/v1.vod"
     }
     ,
     "5": {
-        "name": "米小七", "url":"https://app.mixiaoqi.com/api.php/provide/vod"
+        "name": "光年", "url":"https://www.gntv.live/api.php/v1.vod"
     }
     ,
     "6": {
-        "name": "免费影视", "url":"https://wlgwys.com/api.php/v1.vod"
+        "name": "天天", "url":"https://app.qianju.cc/api.php/v1.vod"
     }
 }
 ;
