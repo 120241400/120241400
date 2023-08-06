@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "大漠", "url":"http://damozy.com/api.php/provide/vod/from/m3u8/", "play":"./jx/index.html?url="
+        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
     }
     ,
     "1": {
@@ -8,7 +8,7 @@ var pingguozy= {
     }
     ,
     "2": {
-        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
+        "name": "爱坤", "url":"https://ikunzyai.com/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
