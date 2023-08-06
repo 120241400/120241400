@@ -8,7 +8,7 @@ var pingguozy= {
     }
     ,
     "2": {
-        "name": "爱坤", "url":"https://ikunzyai.com/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
+        "name": "爱坤", "url":"https://ikunzyai.com/api.php/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
