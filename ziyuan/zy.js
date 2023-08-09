@@ -8,7 +8,7 @@ var pingguozy= {
     }
     ,
     "2": {
-        "name": "爱坤", "url":"https://ikunzyai.com/api.php/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
+        "name": "非凡", "url":"http://ffzy5.tv/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
