@@ -8,7 +8,7 @@ var pingguozy= {
     }
     ,
     "2": {
-        "name": "非凡", "url":"http://ffzy5.tv/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
+        "name": "非凡", "url":"https://ffzy5.tv/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
