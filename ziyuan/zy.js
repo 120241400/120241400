@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
+        "name": "极速", "url":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/", "play":"./jx/index.html?url="
     }
     ,
     "1": {
@@ -8,7 +8,7 @@ var pingguozy= {
     }
     ,
     "2": {
-        "name": "非凡", "url":"https://ffzy5.tv/api.php/provide/vod/from/ffm3u8", "play":"./jx/index.html?url="
+        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
