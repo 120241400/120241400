@@ -1,0 +1,216 @@
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>播放器在线播放- 7080网</title>
+    <meta name="description" content="播放器在线播放,7080网"/>
+    <meta name="keywords" content="播放器在线播放7080网"/>
+<link rel="icon" type="image/png" href="https://jsdelivr.b-cdn.net/gh/sysh8888/sysh8888.github.io/img/favicon.png">
+	<script src="https://jsdelivr.b-cdn.net/gh/sysh8888/sysh8888.github.io/js/tongji.js"></script>
+<meta name="referrer"  content="no-referrer">
+<link rel="apple-touch-icon-precomposed" href="https://jsdelivr.b-cdn.net/gh/sysh8888/sysh8888.github.io/img/app-icon72x72@2x.png">
+<link rel="stylesheet" href="https://lib.baomitu.com/amazeui/2.7.2/css/amazeui.min.css">
+<link rel="stylesheet" href="https://jsdelivr.b-cdn.net/gh/sysh8888/sysh8888.github.io/css/app.css">
+<script src="https://lib.baomitu.com/jquery/3.6.0/jquery.min.js"></script>
+<script src="./js/zy1.js"></script>
+<script src="./js/gg.js"></script>
+</head> 
+<body>
+<header class="am-topbar">
+    <div class="am-container">
+    <h1 class="am-topbar-brand hover-bounce">
+        <a href="/" class="web-name">
+            <span class="am-icon-film am-icon-md"></span> 
+            7080网            
+        </a>
+    </h1>
+    <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-success am-show-sm-only" data-am-collapse="{target: '#doc-topbar-collapse'}">
+        <span class="am-sr-only">导航切换</span> 
+        <span class="am-icon-bars"></span>
+    </button>
+    <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
+        <ul class="am-nav am-nav-pills am-topbar-nav" id="toutou">
+        </ul>
+    <form class="am-topbar-form am-topbar-left am-form-inline" role="search" action="./so.html" name="tyForm" onsubmit="return Checkfrom();" >
+        <div class="am-input-group am-input-group-primary am-input-group-sm">
+            <input name="wd" type="text" class="am-form-field" placeholder="搜索..." required>
+            <span class="am-input-group-btn">
+                <button class="am-btn am-btn-primary" type="submit">
+                    <span class="am-icon-search"></span>
+                </button>
+            </span>
+        </div>
+    </form>
+  </div>
+</header>
+
+<div class="am-container">
+    <div class="am-panel am-panel-default">
+		<div class="am-panel-hd">信息</div>
+		<div class="am-panel-bd am-list-item-text">
+		
+			<table class="am-table am-table-bd am-table-bdrs am-table-striped" style="margin-bottom:0px">
+				<tbody>
+					<tr>
+						<td width="auto"><b>名称:</b> <span id="name">加载中</span></td>
+						<td  rowspan="5" width="127"  align="right" id="tu"></td>
+					</tr>
+					<tr>
+					<td width="auto"><b>年代：</b> <span id="nian">加载中</span></td>
+					</tr>
+					<tr>
+					<td width="auto"><b>地区：</b><span id="diqu">加载中</span></td>
+					</tr>
+					<tr>
+					<td width="auto"><b>导演：</b><span id="daoyan">加载中</span> </td>
+					</tr>
+					<td width="auto"><b>类型：</b> <span id="fenlei">加载中</span></td>
+					<tr>
+						<td colspan="2"><b>演员：</b><span id="yanyuan">加载中</span></td>
+					</tr>
+					<tr>
+						<td colspan="2"><b>简介：</b><span id="jiesao">加载中</span></td>
+					</tr>
+				</tbody>
+			</table> 
+		</div>
+	</div>
+<div class="am-panel am-panel-default">
+    <div class="am-panel-hd" ><span id="name">请勿相信视频中的赌博广告</span></div>
+    
+<div class="am-panel-bd player-box">
+        <iframe id="video" src="" width="100%" height="100%" allowfullscreen="true" allowtransparency="true" allow="autoplay"></iframe>
+    </div>
+
+    </div>
+<div class="am-panel am-panel-default">
+    <div class="am-panel-hd">        状态
+    <span class="btn-link"  id="share">📺当前播放：</span>
+    <span class="btn-link" id="demo1" style="font-size:20px;color:orange"></span>
+    </div>
+    <div class="am-panel-bd">
+    
+        <div class="am-tabs" id="tv-res-choose" data-am-tabs>
+            <ul class="am-tabs-nav am-nav am-nav-tabs" id="bolie2">  
+      </ul>
+            
+        <div class="am-tabs-bd tv-res-lists" id="neirong">
+加载中 
+        </div>
+     
+    </div>
+        </div>    
+    </div>
+
+<div class="am-panel am-panel-default">
+    <div class="am-panel-hd">简介</div>
+    <div class="am-panel-bd" id="jiesao1">
+加载中  </div>
+</div>
+
+<div class="am-panel am-panel-default">
+    <div class="am-panel-hd">电影推荐</div>
+    <div class="am-panel-bd">
+        
+        <ul class="am-gallery am-avg-sm-2 am-avg-md-3 am-avg-lg-6 am-gallery-bordered" data-am-widget="gallery" id="tuijian">
+
+                    <div class="am-alert am-alert-secondary" data-am-alert>
+                           <p id="zhuang"></p><p id="zhuang"></p><p id="yuyan"></p> <p id="time"></p> <p id="nian"></p> <p id="diqu"></p> <p id="yanyuan"></p>
+                    </div> 
+                                
+        </ul>
+        
+    </div>
+</div>
+</div>
+
+  
+
+
+</div>  <!-- 容器 -->
+<script>
+function GetHref(obj){
+document.getElementById("video").src=obj.value;
+document.getElementById("demo1").innerHTML=obj.title;
+}
+</script>
+
+<!--公共foot部分开始（本footer由代码动态生成）-->
+
+    <!-- 返回顶部 -->
+    <div data-am-widget="gotop" class="am-gotop am-gotop-fixed" title="返回顶部">
+        <a href="#top" title="">
+            <i class="am-gotop-icon am-icon-arrow-up"></i>
+        </a>
+    </div>
+
+    <!-- 底部栏 -->
+    <footer data-am-widget="footer" class="am-footer am-footer-default am-hide-sm-only" data-am-footer="{  }">
+        <div class="am-footer-miscs">
+            <p>本网站为非赢利性站点</p>
+            <p>所有内容均来源于互联网相关站点自动搜索采集信息</p>	
+  
+      </div>
+    </footer>
+
+    <!-- 底部导航栏 -->
+    <!-- 图标资源来自于  -->
+    <div data-am-widget="navbar" class="am-navbar am-cf am-navbar-default am-show-sm-only" id="">
+        <ul class="am-navbar-nav am-cf am-avg-sm-4" id="souji">
+
+</ul>
+    </div>
+    <script type="text/javascript">
+document.getElementById("toutou").innerHTML =toutou;
+document.getElementById("souji").innerHTML =souji;
+        function GetQueryString(name)
+          {
+               var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+               var r = window.location.search.substr(1).match(reg);
+               if(r!=null)return  decodeURIComponent(r[2]); return null;
+        
+          }
+       
+       var zy=GetQueryString("zy");
+       var lianjie = GetQueryString("q");
+       var id = GetQueryString("id"); 
+       </script>
+
+<script src="https://lib.baomitu.com/amazeui/2.7.2/js/amazeui.min.js"></script>
+  <script type="text/javascript">
+    if (zy=="pg"){urll="./js/play.js"}
+    else if(zy=="qt"){urll="./js/qtplay.js"}
+    else if(zy=="fq"){urll="./js/fqplay.js"}
+    else if(zy=="360"){urll="./js/360play.js"};
+    document.write(unescape("%3Cscript src='"+urll+"' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+<script type="text/javascript">
+    function tuijian(){
+        var url8="https://api.web.360kan.com/v1/rank?cat=2&size=12";
+        $.ajax({type:"get",dataType:'jsonp',
+        url:url8,
+        data:"",
+        cache:true,
+        async:true,
+        jsonp:'callback',jsonpCallback:'__jp8',timeout:8000,contentType:"application/json;utf-8",
+        success:function(data){
+
+           // console.log(data);
+            var tuijian="";
+            for(var t=0;t<data.data.length;t++){
+                tuijian+='<li><div class="am-gallery-item"><a href="play.html?q='+data.data[t].ent_id+'&id='+data.data[t].cat+'&zy=360&html=1.html" target="_blank"><img alt="" src="'+data.data[t].cover+'" ><h3 class="am-gallery-title">'+data.data[t].title+'</h3></a></div></li>'}
+                document.getElementById("tuijian").innerHTML=tuijian;
+        }})
+
+    }
+	
+	</script>
+
+
+</body> 
+</html>
