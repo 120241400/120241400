@@ -70,7 +70,7 @@ var appzy= {
 
 var tjzy= {
     "0": {
-        "name": "爱看", "url":"https://www.ikanbot.com/search?q=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9YjJpV.md.jpg"
+        "name": "M1907", "url":"https://z1.m1907.top/?jx=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9YjJpV.md.jpg"
     }
     ,
     "1": {
