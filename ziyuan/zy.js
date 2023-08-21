@@ -55,7 +55,7 @@ var appzy= {
     }
     ,
     "4": {
-        "name": "真2爱", "url":"https://www.chiguafilm.com/api.php/v1.vod"
+        "name": "三九", "url":"https://www.394tv.com/api.php/provide/vod"
     }
     ,
     "5": {
