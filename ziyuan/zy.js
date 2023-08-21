@@ -39,7 +39,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "创意", "url":"https://www.30dian.cn/api.php/v1.vod"
+        "name": "艾旦", "url":"https://lovedan.net/api.php/provide/vod"
     }
     ,
     "1": {
