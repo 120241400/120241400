@@ -39,7 +39,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "艾旦", "url":"https://lovedan.net/api.php/provide/vod"
+        "name": "真爱", "url":"https://www.chiguafilm.com/api.php/v1.vod"
     }
     ,
     "1": {
@@ -55,7 +55,7 @@ var appzy= {
     }
     ,
     "4": {
-        "name": "真爱", "url":"https://www.chiguafilm.com/api.php/v1.vod"
+        "name": "真2爱", "url":"https://www.chiguafilm.com/api.php/v1.vod"
     }
     ,
     "5": {
