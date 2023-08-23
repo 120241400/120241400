@@ -55,7 +55,7 @@ var appzy= {
     }
     ,
     "4": {
-        "name": "三九", "url":"https://www.394tv.com/api.php/provide/vod"
+        "name": "速影", "url":"https://suyingtv.com/inc/api.php"
     }
     ,
     "5": {
