@@ -43,7 +43,7 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "看剧", "url":"https://app.ishen520.com/api.php/v1.vod"
+        "name": "聚合", "url":"https://www.911ysw.top/tianyi.php/provide/vod"
     }
     ,
     "2": {
@@ -55,7 +55,7 @@ var appzy= {
     }
     ,
     "4": {
-        "name": "速影", "url":"https://suyingtv.com/inc/api.php"
+        "name": "爱深", "url":"https://app.ishen520.com/api.php/v1.vod"
     }
     ,
     "5": {
