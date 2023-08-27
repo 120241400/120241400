@@ -20,11 +20,11 @@ var pingguozy= {
     }
     ,
     "5": {
-        "name": "卧龙", "url":"https://collect.wolongzyw.com/api.php/provide/vod/", "play":"./jx/index.html?url="
+        "name": "聚合", "url":"https://www.911ysw.top/tianyi.php/provide/vod", "play":"./jx/index.html?url="
     }
     ,
     "6": {
-        "name": "快车", "url":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8", "play":"./jx/index.html?url="
+        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
     }
     ,
     "7": {
