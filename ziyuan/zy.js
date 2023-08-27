@@ -20,7 +20,7 @@ var pingguozy= {
     }
     ,
     "5": {
-        "name": "聚合", "url":"https://www.911ysw.top/tianyi.php/provide/vod", "play":"./jx/index.html?url="
+        "name": "聚合", "url":"https://www.911ysw.top/tianyi.php/provide/vod", "play":"https://wangqing.vip/mao/jiexi.html?url="
     }
     ,
     "6": {
