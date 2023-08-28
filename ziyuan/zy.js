@@ -43,7 +43,7 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "聚合", "url":"https://www.911ysw.top/tianyi.php/provide/vod"
+        "name": "鸡婆", "url":"https://www.jipo.tv/api.php/provide/vod"
     }
     ,
     "2": {
