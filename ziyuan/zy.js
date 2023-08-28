@@ -43,7 +43,7 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "鸡婆", "url":"https://www.jipo.tv/api.php/provide/vod"
+        "name": "冉冉", "url":"https://www.rrvipw.com/api.php/provide/vod"
     }
     ,
     "2": {
