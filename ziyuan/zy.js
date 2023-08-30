@@ -43,7 +43,7 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "冉冉", "url":"https://www.rrvipw.com/api.php/provide/vod"
+        "name": "酷哦", "url":"https://cooing.cc/api.php/provide/vod"
     }
     ,
     "2": {
