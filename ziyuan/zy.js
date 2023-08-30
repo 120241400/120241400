@@ -43,7 +43,7 @@ var appzy= {
     }
     ,
     "1": {
-        "name": "酷哦", "url":"https://cooing.cc/api.php/provide/vod"
+        "name": "三九", "url":"https://www.394tv.com/api.php/provide/vod"
     }
     ,
     "2": {
