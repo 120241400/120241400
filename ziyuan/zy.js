@@ -24,7 +24,7 @@ var pingguozy= {
     }
     ,
     "6": {
-        "name": "高清", "url":"https://api.1080zyku.com/inc/feifei3/", "play":"./jx/index.html?url="
+        "name": "高清", "url":"https://api.1080zyku.com/inc/api_mac10_all.php", "play":"./jx/index.html?url="
     }
     ,
     "7": {
