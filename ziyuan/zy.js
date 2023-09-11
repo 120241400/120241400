@@ -24,7 +24,7 @@ var pingguozy= {
     }
     ,
     "6": {
-        "name": "高清", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
+        "name": "高清", "url":"https://api.1080zyku.com/inc/feifei3/", "play":"./jx/index.html?url="
     }
     ,
     "7": {
