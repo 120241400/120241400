@@ -39,11 +39,11 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "真爱", "url":"https://www.chiguafilm.com/api.php/v1.vod"
+        "name": "三零", "url":"https://www.30dian.cn/api.php/v1.vod"
     }
     ,
     "1": {
-        "name": "三九", "url":"https://www.394tv.com/api.php/provide/vod"
+        "name": "墨迹", "url":"https://www.mjlnl.cn/api.php/v1.vod"
     }
     ,
     "2": {
