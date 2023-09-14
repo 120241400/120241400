@@ -70,7 +70,7 @@ var appzy= {
 
 var tjzy= {
     "0": {
-        "name": "邦宁云搜", "url":"https://video.isyour.love/Search/SearchName", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9YjJpV.md.jpg"
+        "name": "邦宁云搜", "url":"https://video.isyour.love/Search/SearchName/", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9YjJpV.md.jpg"
     }
     ,
     "1": {
