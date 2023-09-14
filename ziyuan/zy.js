@@ -47,7 +47,7 @@ var appzy= {
     }
     ,
     "2": {
-        "name": "霹雳", "url":"https://plyy.cc/api.php/v1.vod"
+        "name": "霹雳", "url":"https://cj.vodimg.top/api.php/provide/vod"
     }
     ,
     "3": {
