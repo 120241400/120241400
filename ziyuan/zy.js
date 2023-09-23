@@ -82,7 +82,7 @@ var tjzy= {
     }
     ,
     "3": {
-        "name": "M1907", "url":"https://z1.m1907.top/?jx=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9Yj61K.jpg"
+        "name": "爱看机器人", "url":"https://www.ikanbot.com/search?q=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9Yj61K.jpg"
     }
 }
 ;
