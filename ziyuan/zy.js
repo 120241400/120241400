@@ -12,7 +12,7 @@ var pingguozy= {
     }
     ,
     "3": {
-        "name": "金鹰", "url":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json", "play":"./jx/index.html?url="
+        "name": "极速", "url":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "play":"./jx/index.html?url="
     }
     ,
     "4": {
