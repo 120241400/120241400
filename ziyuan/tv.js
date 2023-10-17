@@ -40,7 +40,7 @@ var zjiptv={
 
 var qtiptv={
   
-"北京卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8",
+"北京卫视":"http://111.221.137.154:9901/tsfile/live/0122_1.m3u8",
 
 "天津卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8",
 
