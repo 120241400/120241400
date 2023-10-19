@@ -54,7 +54,7 @@ var qtiptv={
 
 "江苏卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
 
-"山东卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8",
+"山东卫视":"http://111.221.137.154:9901/tsfile/live/0131_1.m3u8",
 
 "广东卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
 
