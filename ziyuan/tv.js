@@ -40,9 +40,9 @@ var zjiptv={
 
 var qtiptv={
   
-"北京卫视":"https://cntv.sbs/tv?auth=231013&id=bjws",
+"北京卫视":"http://111.221.137.154:9901/tsfile/live/0122_1.m3u8",
 
-"天津卫视":"https://cntv.sbs/tv?auth=231013&id=tjws",
+"天津卫视":"http://111.221.137.154:9901/tsfile/live/0135_1.m3u8",
 
 "东方卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8",
 
