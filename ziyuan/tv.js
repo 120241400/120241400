@@ -74,7 +74,7 @@ var qtiptv={
 
 "青海卫视":"http://stream.qhbtv.com/qhws/sd/live.m3u8",
 
-"河南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8",
+"河南卫视":"http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8",
 
 "江西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8",
 
