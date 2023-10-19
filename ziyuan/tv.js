@@ -44,7 +44,7 @@ var qtiptv={
 
 "天津卫视":"http://111.221.137.154:9901/tsfile/live/0135_1.m3u8",
 
-"东方卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8",
+"东方卫视":"http://111.221.137.154:9901/tsfile/live/0107_1.m3u8",
 
 "重庆卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8",
 
