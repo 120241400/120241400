@@ -82,7 +82,7 @@ var qtiptv={
 
 "内蒙古卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8",
 
-"海南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8",
+"海南卫视":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8",
 
 "云南卫视":"http://111.221.137.154:9901/tsfile/live/0119_1.m3u8",
 
