@@ -62,7 +62,7 @@ var qtiptv={
 
 "安徽卫视":"http://111.221.137.154:9901/tsfile/live/0130_1.m3u8",
 
-"四川卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8",
+"四川卫视":"http://111.221.137.154:9901/tsfile/live/0123_1.m3u8",
 
 "陕西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8",
 
