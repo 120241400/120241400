@@ -56,11 +56,11 @@ var qtiptv={
 
 "山东卫视":"http://111.221.137.154:9901/tsfile/live/0131_1.m3u8",
 
-"广东卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8",
+"广东卫视":"http://111.221.137.154:9901/tsfile/live/0125_1.m3u8",
 
-"深圳卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8",
+"深圳卫视":"http://111.221.137.154:9901/tsfile/live/0018_1.m3u8",
 
-"安徽卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8",
+"安徽卫视":"http://111.221.137.154:9901/tsfile/live/0130_1.m3u8",
 
 "四川卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8",
 
