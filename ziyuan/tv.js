@@ -72,7 +72,7 @@ var qtiptv={
 
 "河北卫视":"http://event.pull.hebtv.com/jishi/weishipindao.m3u8",
 
-"东南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8",
+"青海卫视":"http://stream.qhbtv.com/qhws/sd/live.m3u8",
 
 "河南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8",
 
