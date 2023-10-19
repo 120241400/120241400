@@ -64,11 +64,11 @@ var qtiptv={
 
 "四川卫视":"http://111.221.137.154:9901/tsfile/live/0123_1.m3u8",
 
-"陕西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8",
+"陕西卫视":"http://111.221.137.154:9901/tsfile/live/0136_1.m3u8",
 
-"山西卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8",
+"山西卫视":"http://111.221.137.154:9901/tsfile/live/0118_1.m3u8",
 
-"湖北卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8",
+"湖北卫视":"http://111.221.137.154:9901/tsfile/live/0132_1.m3u8",
 
 "河北卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8",
 
@@ -84,7 +84,7 @@ var qtiptv={
 
 "海南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8",
 
-"云南卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8",
+"云南卫视":"http://111.221.137.154:9901/tsfile/live/0119_1.m3u8",
 
 "贵州卫视":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8",
 
