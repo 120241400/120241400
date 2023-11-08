@@ -39,7 +39,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "三零", "url":"https://www.30dian.cn/api.php/v1.vod"
+        "name": "三零", "url":"https://90hd.top/api.php/v1.vod"
     }
     ,
     "1": {
