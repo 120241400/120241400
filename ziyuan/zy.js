@@ -32,6 +32,10 @@ var pingguozy= {
     }
     ,
     "8": {
+        "name": "短剧", "url":"http://zzdj.cc/api.php/provide/vod", "play":"./jx/index.html?url="
+    }
+    ,
+    "9": {
         "name": "光速", "url":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8", "play":"./jx/index.html?url="
     }
 }
