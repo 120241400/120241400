@@ -43,7 +43,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "爱旦", "url":"https://lovedan.net/api.php/provide/vod?https://90hd.top/api.php/v1.vod"
+        "name": "奇乐", "url":"https://qlkjy.cn/api.php/v1.vod"
     }
     ,
     "1": {
@@ -55,7 +55,7 @@ var appzy= {
     }
     ,
     "3": {
-        "name": "何以", "url":"https://www.heyik.cn/api.php/v1.vod"
+        "name": "何以", "url":"https://90hd.top/api.php/v1.vod"
     }
     ,
     "4": {
