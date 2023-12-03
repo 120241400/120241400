@@ -43,7 +43,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "三零", "url":"https://cooing.cc/api.php/provide/vod?https://90hd.top/api.php/v1.vod"
+        "name": "爱旦", "url":"https://lovedan.net/api.php/provide/vod?https://90hd.top/api.php/v1.vod"
     }
     ,
     "1": {
