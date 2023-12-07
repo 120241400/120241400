@@ -63,7 +63,7 @@ var appzy= {
     }
     ,
     "5": {
-        "name": "光年", "url":"https://www.gntv.live/api.php/v1.vod"
+        "name": "飘零", "url":"https://p2100.net/api.php/provide/vod"
     }
     ,
     "6": {
