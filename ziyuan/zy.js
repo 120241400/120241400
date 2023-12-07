@@ -55,15 +55,15 @@ var appzy= {
     }
     ,
     "3": {
-        "name": "何以", "url":"https://90hd.top/api.php/v1.vod"
+        "name": "何以", "url":"https://www.heyik.cn/api.php/v1.vod"
     }
     ,
     "4": {
-        "name": "爱深", "url":"https://app.ishen520.com/api.php/v1.vod"
+        "name": "爱城", "url":"https://90hd.top/api.php/v1.vod"
     }
     ,
     "5": {
-        "name": "飘零", "url":"https://p2100.net/api.php/provide/vod"
+        "name": "飘零", "url":"https://www.30dian.cn/api.php/v1.vod"
     }
     ,
     "6": {
