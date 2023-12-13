@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "极速", "url":"https://jszyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
+        "name": "极速", "url":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "play":"./jx/index.html?url="
     }
     ,
     "1": {
@@ -12,7 +12,7 @@ var pingguozy= {
     }
     ,
     "3": {
-        "name": "金鹰", "url":"https://jyzyapi.com/api.php/provide/vod/from/jsm3u8", "play":"./jx/index.html?url="
+        "name": "金鹰", "url":"https://jyzyapi.com/api.php/provide/vod/from/jym3u8", "play":"./jx/index.html?url="
     }
     ,
     "4": {
