@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "极速", "url":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "play":"./jx/index.html?url="
+        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?https://jszyapi.com/api.php/provide/vod/from/jsm3u8", "play":"./jx/index.html?url="
     }
     ,
     "1": {
