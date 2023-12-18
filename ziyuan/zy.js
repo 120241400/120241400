@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
+        "name": "乐时", "url":"https://leshizyapi.com/api.php/provide/vod/", "play":"./jx/index.html?url="
     }
     ,
     "1": {
@@ -36,7 +36,7 @@ var pingguozy= {
     }
     ,
     "9": {
-        "name": "光速", "url":"https://leshizyapi.com/api.php/provide/vod", "play":"./jx/index.html?url="
+        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
     }
 }
 ;
