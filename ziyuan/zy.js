@@ -36,7 +36,7 @@ var pingguozy= {
     }
     ,
     "9": {
-        "name": "乐视", "url":"https://leshiyuncdn.ahjunqin.top/20231128/USKBx5fx/hls/index.m3u8", "play":"./jx/index.html?url="
+        "name": "乐视", "url":"https://leshizyapi.com/api.php/provide/vod/", "play":"./jx/index.html?url="
     }
 }
 ;
