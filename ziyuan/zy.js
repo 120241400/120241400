@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "原酷", "url":"https://api.1080zyku.com/inc/apijson.php", "play":"./jx/index.html?url="
+        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
     }
     ,
     "1": {
@@ -36,7 +36,7 @@ var pingguozy= {
     }
     ,
     "9": {
-        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
+        "name": "乐视", "url":"https://leshiyuncdn.ahjunqin.top/20231128/USKBx5fx/hls/index.m3u8", "play":"./jx/index.html?url="
     }
 }
 ;
