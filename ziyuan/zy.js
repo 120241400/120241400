@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "乐时", "url":"https://leshizyapi.com/api.php/provide/vod/", "play":"./jx/index.html?url="
+        "name": "原酷", "url":"https://api.1080zyku.com/inc/apijson.php", "play":"./jx/index.html?url="
     }
     ,
     "1": {
