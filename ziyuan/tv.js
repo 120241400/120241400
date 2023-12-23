@@ -81,9 +81,10 @@ var qtiptv={
 
 "浙江卫视":"http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
 
+"山东卫视":"https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8",  
+  
 "重庆卫视":"https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8"
 
-"山东卫视":"https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8",  
 };
 
 var ipiptv={
