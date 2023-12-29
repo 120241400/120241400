@@ -32,7 +32,7 @@ var pingguozy= {
     }
     ,
     "8": {
-        "name": "短剧", "url":"http://zzdj.cc/api.php/provide/vod", "play":"./jx/index.html?url="
+        "name": "爱坤", "url":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
     }
     ,
     "9": {
