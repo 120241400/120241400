@@ -4,7 +4,7 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8/"
+        "name": "乐视", "url":"https://leshizyapi.com/api.php/provide/vod"
     }
     ,
     "2": {
@@ -36,7 +36,7 @@ var pingguozy= {
     }
     ,
     "9": {
-        "name": "乐视", "url":"https://leshizyapi.com/api.php/provide/vod/", "play":"./jx/index.html?url="
+        "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8", "play":"./jx/index.html?url="
     }
 }
 ;
