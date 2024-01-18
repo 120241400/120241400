@@ -32,7 +32,7 @@ var pingguozy= {
     }
     ,
     "8": {
-        "name": "火狐", "url":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
+        "name": "快云", "url":"https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/", "play":"./jx/index.html?url="
     }
     ,
     "9": {
