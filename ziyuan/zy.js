@@ -32,11 +32,11 @@ var pingguozy= {
     }
     ,
     "8": {
-        "name": "快云", "url":"https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/", "play":"./jx/index.html?url="
+        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
     }
     ,
     "9": {
-        "name": "虎牙", "url":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "play":"./jx/index.html?url="
+        "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8", "play":"./jx/index.html?url="
     }
 }
 ;
