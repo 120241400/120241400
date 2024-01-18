@@ -36,7 +36,7 @@ var pingguozy= {
     }
     ,
     "9": {
-        "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8", "play":"./jx/index.html?url="
+        "name": "虎牙", "url":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "play":"./jx/index.html?url="
     }
 }
 ;
