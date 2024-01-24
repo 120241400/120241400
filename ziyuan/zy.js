@@ -51,7 +51,7 @@ var appzy= {
     }
     ,
     "2": {
-        "name": "霹雳", "url":"https://cj.vodimg.top/api.php/provide/vod"
+        "name": "鑫鑫", "url":"http://vipcom.xn--654a.cc/api.php/provide/vod/"
     }
     ,
     "3": {
