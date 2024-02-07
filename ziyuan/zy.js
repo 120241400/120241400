@@ -1,6 +1,6 @@
 var pingguozy= {
     "0": {
-        "name": "爱坤", "url":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
+        "name": "爱坤", "url":"https://ikzy9.com/api.php/provide/vod/from/ikm3u8", "play":"./jx/index.html?url="
     }
     ,
     "1": {
