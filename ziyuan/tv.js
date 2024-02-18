@@ -55,29 +55,9 @@ var qtiptv={
 };
 
 var ipiptv={
-"成龙":"http://mmitv.top/pltv/yy.php?id=1354888751",
-
-"林正英":"http://mmitv.top/pltv/yy.php?id=1351505899",
-
 "豆瓣高分":"http://epg.112114.xyz/douyu/8770422",
 
 "爱情公寓":"http://epg.112114.xyz/douyu/6863367",
-
-"成龙1":"http://mmitv.top/pltv/yy.php?id=24066336",
-
-"YY电影2":"http://mmitv.top/pltv/yy.php?id=1355171357",
-
-"漫威":"http://mmitv.top/pltv/yy.php?id=1382745095",
-
-"变形金刚":"http://mmitv.top/pltv/yy.php?id=1382736803",
-
-"刘德华":"http://mmitv.top/pltv/yy.php?id=24921161",
-
-"YY电影3":"http://mmitv.top/pltv/yy.php?id=1382735573",
-
-"速度与激情":"http://mmitv.top/pltv/yy.php?id=1382749892",
-
-"港片":"http://mmitv.top/pltv/yy.php?id=24066336",
 
 "牛叔说电影1":"http://epg.112114.xyz/douyu/2758565",
 
@@ -85,6 +65,32 @@ var ipiptv={
 
 "科幻Fans":"http://epg.112114.xyz/douyu/3508304",
 
+  "小品轮播":"http://epg.112114.xyz/douyu/9067836",
+
+"王大锤":"http://epg.112114.xyz/douyu/9220456",
+
+"火龙果说电影":"http://epg.112114.xyz/douyu/9559158",
+
+"小片片说大片":"http://epg.112114.xyz/douyu/4258555",
+
+"赵本山小品":"http://epg.112114.xyz/douyu/9817716",
+
+"开心麻花小品":"http://epg.112114.xyz/douyu/10153463",
+
+"刘哔电影":"http://epg.112114.xyz/douyu/2632223",
+
+"新三国":"http://epg.112114.xyz/douyu/5908256",
+
+"虫哥说电影":"http://epg.112114.xyz/douyu/8915074",
+
+"好莱坞大片":"http://epg.112114.xyz/douyu/252802",
+
+"小雅说电影":"http://epg.112114.xyz/douyu/9639225",
+
+"老邪说电影":"http://epg.112114.xyz/douyu/9222870",
+
+"侃片大师兄":"http://epg.112114.xyz/douyu/9338839",
+  
 "庆余年":"http://epg.112114.xyz/douyu/11873641"
 };
 
