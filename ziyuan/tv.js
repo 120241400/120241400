@@ -42,13 +42,13 @@ var qtiptv={
 
 "北京卫视":"http://live.sjsrm.com/bjsjs/sd/live.m3u8",
 
-"海峡卫视":"http://r.jdshipin.com/WtYt3",
+"湖南卫视":"http://112.132.181.221:9988/hls/22/index.m3u8",
 
 "东方卫视":"http://110.16.65.6:8888/newlive/live/hls/20/live.m3u8",
 
-"浙江卫视":"http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+"深圳卫视":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8",
 
-"山东卫视":"https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8",  
+"延边卫视":"http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8",  
   
 "重庆卫视":"https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8"
 
