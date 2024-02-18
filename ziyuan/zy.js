@@ -43,7 +43,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "奇乐", "url":"https://qlkjy.cn/api.php/v1.vod"
+        "name": "爱旦", "url":"https://lovedan.net/api.php/provide/vod"
     }
     ,
     "1": {
