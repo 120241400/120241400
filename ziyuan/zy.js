@@ -43,7 +43,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "三九", "url":"https://www.394tv.com/api.php/provide/vod"
+        "name": "聚焦", "url":"https://vip.ystv.lol/api.php/v1.vod"
     }
     ,
     "1": {
