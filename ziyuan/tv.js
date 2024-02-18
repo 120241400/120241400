@@ -1,38 +1,4 @@
 var zjiptv={
-"CCTV1HD":"http://v.ran-ran.top/zb/migu.php?id=cctv1",
-
-"CCTV2HD":"http://v.ran-ran.top/zb/migu.php?id=cctv2",
-
-"CCTV3HD":"http://v.ran-ran.top/zb/migu.php?id=cctv3",
-
-"CCTV4HD":"http://v.ran-ran.top/zb/migu.php?id=cctv4",
-
-"CCTV5HD":"http://v.ran-ran.top/zb/migu.php?id=cctv5",
-
-"CCTV6HD":"http://v.ran-ran.top/zb/migu.php?id=cctv6",
-
-"CCTV7HD":"http://v.ran-ran.top/zb/migu.php?id=cctv7",
-
-"CCTV8HD":"http://v.ran-ran.top/zb/migu.php?id=cctv8",
-
-"CCTV9HD":"http://v.ran-ran.top/zb/migu.php?id=cctv9",
-
-"CCTV10HD":"http://v.ran-ran.top/zb/migu.php?id=cctv10",
-
-"CCTV11HD":"http://v.ran-ran.top/zb/migu.php?id=cctv11",
-
-"CCTV12HD":"http://v.ran-ran.top/zb/migu.php?id=cctv12",
-
-"CCTV13HD":"http://v.ran-ran.top/zb/migu.php?id=cctv13",
-
-"CCTV14HD":"http://v.ran-ran.top/zb/migu.php?id=cctv14",
-
-"CCTV15HD":"http://v.ran-ran.top/zb/migu.php?id=cctv15",
-
-"CCTV16HD":"http://v.ran-ran.top/zb/migu.php?id=cctv16",
-
-"CCTV17HD":"http://v.ran-ran.top/zb/migu.php?id=cctv17",
-
 "CCTV1":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
 
 "CCTV2":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8",
@@ -59,7 +25,7 @@ var zjiptv={
 
 "CCTV12":"http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8",
 
-"CCTV13":"https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8",
+"CCTV13":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
 
 "CCTV14":"http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8",
 
