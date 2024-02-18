@@ -43,7 +43,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "爱旦", "url":"https://lovedan.net/api.php/provide/vod"
+        "name": "三九", "url":"https://www.394tv.com/api.php/provide/vod"
     }
     ,
     "1": {
