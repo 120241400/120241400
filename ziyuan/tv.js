@@ -25,7 +25,7 @@ var zjiptv={
 
 "CCTV12":"http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8",
 
-"CCTV13":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
+"CCTV13":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8",
 
 "CCTV14":"http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8",
 
