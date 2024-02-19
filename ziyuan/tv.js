@@ -33,7 +33,7 @@ var zjiptv={
 
 "CCTV16":"http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8",
 
-"CCTV17":"http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8"
+"CCTV17":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8"
 };
   
 var qtiptv={
