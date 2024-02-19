@@ -51,7 +51,7 @@ var appzy= {
     }
     ,
     "2": {
-        "name": "鑫鑫", "url":"https://cj.wanbu.cc/api.php/provide/vod/"
+        "name": "小文", "url":"https://cj.wanbu.cc/api.php/provide/vod/"
     }
     ,
     "3": {
