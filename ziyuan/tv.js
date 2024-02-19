@@ -90,8 +90,18 @@ var ipiptv={
 "老邪说电影":"http://epg.112114.xyz/douyu/9222870",
 
 "侃片大师兄":"http://epg.112114.xyz/douyu/9338839",
+
+"周星驰":"http://epg.112114.xyz/douyu/122402",
+
+"神探狄仁杰":"http://epg.112114.xyz/douyu/11578014",
+
+"成龙":"http://epg.112114.xyz/douyu/8107217",
+
+"庆余年（一线）":"http://epg.112114.xyz/douyu/5062195",
+
+"庆余年（二线）":"http://epg.112114.xyz/douyu/11880121",
   
-"庆余年":"http://epg.112114.xyz/douyu/11873641"
+"庆余年（三线）":"http://epg.112114.xyz/douyu/11873641"
 };
 
 var gtiptv={
