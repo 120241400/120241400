@@ -65,7 +65,7 @@ var ipiptv={
 
 "科幻Fans":"http://epg.112114.xyz/douyu/3508304",
 
-  "小品轮播":"http://epg.112114.xyz/douyu/9067836",
+"小品轮播":"http://epg.112114.xyz/douyu/9067836",
 
 "王大锤":"http://epg.112114.xyz/douyu/9220456",
 
@@ -84,7 +84,15 @@ var ipiptv={
 "虫哥说电影":"http://epg.112114.xyz/douyu/8915074",
 
 "好莱坞大片":"http://epg.112114.xyz/douyu/252802",
+  
+"康熙微服私访":"http://epg.112114.xyz/douyu/12021758",
 
+"我和僵尸有个约会":"http://epg.112114.xyz/douyu/9470198",
+
+"港版西游记":"http://epg.112114.xyz/douyu/11624323",
+
+"漫威电影":"http://epg.112114.xyz/douyu/6140589",
+  
 "小雅说电影":"http://epg.112114.xyz/douyu/9639225",
 
 "老邪说电影":"http://epg.112114.xyz/douyu/9222870",
