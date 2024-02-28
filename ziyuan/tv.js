@@ -125,6 +125,22 @@ var gtiptv={
 
 "台视新闻台":"http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv",
 
-"寰宇新闻台":"http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv"
+"寰宇新闻台":"http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv",
+
+"中天新闻台":"https://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv",
+
+"东森新闻台":"https://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv",
+
+"三立新闻台":"http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv",
+
+"有线新闻台":"https://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv",
+
+"无线新闻台":"http://live.cooltv.top/tv/tvb.php?id=0&hq",
+
+"凤凰咨询台":"http://112.19.171.156:9999/udp/239.93.0.118:2191",
+
+"凤凰卫视台":"http://112.19.171.156:9999/udp/239.93.0.162:2192",
+
+"纬来体育台":"https://cloud.yumixiu768.com/tmp/123.m3u8"
   
 };
