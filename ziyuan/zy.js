@@ -86,7 +86,7 @@ var tjzy= {
     }
     ,
     "3": {
-        "name": "爱看机器人", "url":"https://www.ikanbot.com/search?q=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9Yj61K.jpg"
+        "name": "小丫影视", "url":"https://vjx.orol.cn/so.php?wd=", "pic":"https://i0.wp.com/s1.ax1x.com/2023/05/04/p9Yj61K.jpg"
     }
 }
 ;
