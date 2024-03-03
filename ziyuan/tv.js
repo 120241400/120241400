@@ -141,6 +141,6 @@ var gtiptv={
 
 "凤凰卫视台":"http://112.19.171.156:9999/udp/239.93.0.162:2192",
 
-"纬来体育台":"https://cloud.yumixiu768.com/tmp/123.m3u8"
+"纬来体育台":"http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130"
   
 };
