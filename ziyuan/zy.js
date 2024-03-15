@@ -43,11 +43,11 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "聚焦", "url":"https://vip.ystv.lol/api.php/v1.vod"
+        "name": "墨迹", "url":"https://www.mjlnl.cn/api.php/v1.vod"
     }
     ,
     "1": {
-        "name": "墨迹", "url":"https://www.mjlnl.cn/api.php/v1.vod"
+        "name": "聚焦", "url":"https://vip.ystv.lol/api.php/v1.vod"
     }
     ,
     "2": {
