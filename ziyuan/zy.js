@@ -4,38 +4,18 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "乐视", "url":"https://leshizyapi.com/api.php/provide/vod"
-    }
-    ,
-    "2": {
-        "name": "新浪", "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8", "play":"./jx/index.html?url="
-    }
-    ,
-    "3": {
         "name": "金鹰", "url":"https://jyzyapi.com/api.php/provide/vod/from/jinyingm3u8", "play":"./jx/index.html?url="
     }
     ,
-    "4": {
-        "name": "红牛", "url":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8", "play":"./jx/index.html?url="
-    }
-    ,
-    "5": {
-        "name": "聚合", "url":"https://www.911ysw.top/tianyi.php/provide/vod", "play":"https://wangqing.vip/mao/jiexi.html?url="
-    }
-    ,
-    "6": {
-        "name": "高清", "url":"https://api.1080zyku.com/inc/api_mac10_all.php", "play":"./jx/index.html?url="
-    }
-    ,
-    "7": {
+    "2": {
         "name": "无尽", "url":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8", "play":"./jx/index.html?url="
     }
     ,
-    "8": {
+    "3": {
         "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
     }
     ,
-    "9": {
+    "4": {
         "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8", "play":"./jx/index.html?url="
     }
 }
