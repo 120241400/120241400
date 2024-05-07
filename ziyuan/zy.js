@@ -4,18 +4,22 @@ var pingguozy= {
     }
     ,
     "1": {
-        "name": "金鹰", "url":"https://jyzyapi.com/api.php/provide/vod/from/jinyingm3u8", "play":"./jx/index.html?url="
+        "name": "三六", "url":"https://360zy.com/api.php/provide/vod/from/360zy", "play":"./jx/index.html?url="
     }
     ,
     "2": {
-        "name": "无尽", "url":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8", "play":"./jx/index.html?url="
+        "name": "金鹰", "url":"https://jyzyapi.com/api.php/provide/vod/from/jinyingm3u8", "play":"./jx/index.html?url="
     }
     ,
     "3": {
-        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
+        "name": "无尽", "url":"https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8", "play":"./jx/index.html?url="
     }
     ,
     "4": {
+        "name": "火狐", "url":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8", "play":"./jx/index.html?url="
+    }
+    ,
+    "5": {
         "name": "速播", "url":"https://subocaiji.com/api.php/provide/vod/from/subm3u8", "play":"./jx/index.html?url="
     }
 }
