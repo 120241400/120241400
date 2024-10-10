@@ -27,7 +27,7 @@ var pingguozy= {
 
 var appzy= {
     "0": {
-        "name": "墨迹", "url":"https://www.mjlnl.cn/api.php/v1.vod"
+        "name": "提米", "url":"https://vipcj.timizy.top/api.php/provide/vod"
     }
     ,
     "1": {
